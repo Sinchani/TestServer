@@ -1,0 +1,18 @@
+CLICK
+    #TYPE#
+    IP #NV# long(172.16.25.25)
+        #ATTR#
+            UA #NV# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+        #ATTR#
+            PUB_DOMAIN #NV# dptest.com
+        #ATTR#
+            ADV_URL #NV# md5(http://advertiser.com)
+        #ATTR#
+            PUB_URL #NV# md5(http://dptest.com)
+        #ATTR#
+            TIME_TAKEN #NV# 1
+        #ATTR#
+
+CLICK#TYPE#IP#NV#172.16.25.25#ATTR#UA#NV#Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.1(KHTML,likeGecko)Chrome/21.0.1180.89Safari/537.1#ATTR#PUB_DOMAIN#NV#dptest.com#ATTR#ADV_URL#NV#http://advertiser.com#ATTR#PUB_URL#NV#http://dptest.com#ATTR#TIME_TAKEN#NV#1#ATTR#
+
+CLICK%23TYPE%23IP%23NV%23172.16.25.25%23ATTR%23UA%23NV%23Mozilla%2F5.0(WindowsNT6.1%3BWOW64)AppleWebKit%2F537.1(KHTML%2ClikeGecko)Chrome%2F21.0.1180.89Safari%2F537.1%23ATTR%23PUB_DOMAIN%23NV%23dptest.com%23ATTR%23ADV_URL%23NV%23http%3A%2F%2Fadvertiser.com%23ATTR%23PUB_URL%23NV%23http%3A%2F%2Fdptest.com%23ATTR%23TIME_TAKEN%23NV%231%23ATTR%23
